@@ -8,3 +8,7 @@ c=`expr $a + $b`
 echo $c
 
 echo "All working fine"
+
+echo "Comment added by branch1"
+
+echo "Comment added by branch2"
