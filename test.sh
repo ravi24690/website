@@ -6,3 +6,5 @@ b=20
 c=`expr $a + $b`
 
 echo $c
+
+echo "All working fine"
