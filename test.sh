@@ -13,4 +13,4 @@ echo "Comment added by branch1"
 echo "Comments added by branch2"
 
 
-mkdir test
+/bin/mkdir test
