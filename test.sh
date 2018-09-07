@@ -14,3 +14,5 @@ echo "Comments added by branch2"
 
 
 /bin/mkdir demo
+
+cd demo
